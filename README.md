@@ -1,1 +1,0 @@
-# Success-Prediction-of-Kickstarter-Project
